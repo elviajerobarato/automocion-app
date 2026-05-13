@@ -1,0 +1,21 @@
+
+body{
+    font-family: Inter, Arial, sans-serif;
+}
+
+.login-card{
+    width: 400px;
+}
+
+.table td,
+.table th{
+    vertical-align: middle;
+}
+
+.card{
+    overflow: hidden;
+}
+
+thead th{
+    white-space: nowrap;
+}

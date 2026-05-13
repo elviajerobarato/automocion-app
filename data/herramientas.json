@@ -1,0 +1,22 @@
+[
+    {
+        "taller": "Carroceria",
+        "cantidad": 3,
+        "producto": "sierra arco manual",
+        "estado": "Disponible",
+        "ubicacion": "Almacen Herramientas (llave nº20)",
+        "fechaAlta": "2025-01-10",
+        "fechaBaja": "",
+        "observacion": ""
+    },
+    {
+        "taller": "Motores",
+        "cantidad": 5,
+        "producto": "llave inglesa",
+        "estado": "Disponible",
+        "ubicacion": "Armario Motores",
+        "fechaAlta": "2025-02-12",
+        "fechaBaja": "",
+        "observacion": ""
+    }
+]
